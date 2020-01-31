@@ -25,7 +25,7 @@ export default class IssueTrackerWebPart extends BaseClientSideWebPart<
         description: this.properties.description
       }
     );
-    // test comment
+    // test comment abc
     ReactDom.render(element, this.domElement);
   }
 
