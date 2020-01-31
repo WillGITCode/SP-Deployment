@@ -1,4 +1,4 @@
-import 'jest'
+import "jest";
 
 describe("webPartName", () => {
   test("should add numbers Sync fluent", () => {
